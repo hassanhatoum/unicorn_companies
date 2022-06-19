@@ -1,0 +1,24 @@
+The UC_dataset shows a list of all unicorn companies with information related to each company, the information includes:
+- Company name
+- Company valuation 
+- Date joined
+- Country
+- City
+- Industry 
+- Select investors
+For this analysis we will mainly focus on the following:
+- number of unicorn companies per Country
+- valuation of these companies per Country
+- number of unicorn companies per Industry
+- valuation of unicorn companies per Industry
+- Which investors made the best investments by calculating the number of unicorn companies per investor and the sum of their valuation 
+
+Steps:
+1- Clean the dataset and check form missing values
+2- Get the number of companies and the sum of their valuation for every Country
+3- Get the number of companies and the sum of their valuation for every Industry
+4- Get the number of companies and the sum of their valuation for every investor
+
+Bonus:
+Try to create an interactive chart using plotly that allows the user to see the valuation of the companies by slecting
+Industry and Country from drop down lists
